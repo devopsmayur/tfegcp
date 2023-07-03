@@ -7,6 +7,7 @@ terraform {
   }
 }
 
+{
   project = "hc-298fe22b114c4f4f8961e031e5c"
   region  = "us-central1"
   zone    = "us-central1-c"
