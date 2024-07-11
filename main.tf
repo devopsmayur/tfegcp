@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project = "hc-2b6b12a0d1a54455ab3af0925b7"
+  project = "hc-f552273c4d114486a706aedd00e"
 }
 
 
